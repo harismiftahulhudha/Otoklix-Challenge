@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Otoklix Challenge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="harap_tunggu">Harap Tunggu</string>
+    <string name="icon">icon</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_post">Edit Post</string>
+    <string name="buat_post">Buat Post</string>
+</resources>

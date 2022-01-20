@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/bg_input_light_gray.xml" value="0.3435185185185185" />
+        <entry key="app/src/main/res/drawable/bg_btn_active_gray.xml" value="0.3435185185185185" />
+        <entry key="app/src/main/res/drawable/bg_btn_disable_gray.xml" value="0.3435185185185185" />
+        <entry key="app/src/main/res/drawable/bg_input_light_gray.xml" value="0.3435185185185185" />
+        <entry key="app/src/main/res/layout/activity_form_post.xml" value="0.3578125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3578125" />
+        <entry key="app/src/main/res/layout/dialog_loading_helper.xml" value="0.3578125" />
+        <entry key="app/src/main/res/layout/fragment_detail_post.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/layout/fragment_form_post.xml" value="0.3578125" />
+        <entry key="app/src/main/res/layout/fragment_post.xml" value="0.3578125" />
+        <entry key="app/src/main/res/layout/item_loading.xml" value="0.3578125" />
+        <entry key="app/src/main/res/layout/item_post.xml" value="0.3578125" />
+        <entry key="app/src/main/res/menu/post_menu.xml" value="0.3578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
